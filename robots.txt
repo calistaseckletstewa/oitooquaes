@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aegomiewo.vishnuatrai.in/sitemap.xml
